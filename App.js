@@ -10,7 +10,7 @@ import Login from './src/screen/Login'
 import SignUp from './src/screen/SignUp'
 import BottomTab from './src/screen/BottomTab'
 import DetailScreen from './src/screen/DetailScreen'
-import Settings from './src/screen/Settings'
+import Settings from './src/screen/Settings' 
 
 
 const Stack = createStackNavigator();
